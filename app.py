@@ -99,5 +99,6 @@ This project uses machine learning to detect spam SMS. The system classifies inc
     - :red[MultinomialNB] used for model building
 - Extracting model with pickle
 - Streamlit for website and deployment
+so this is all about spam mail detector project 
         """
     )
